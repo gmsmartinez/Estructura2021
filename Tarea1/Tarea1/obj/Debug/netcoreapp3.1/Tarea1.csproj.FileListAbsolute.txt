@@ -1,0 +1,13 @@
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\bin\Debug\netcoreapp3.1\Tarea1.exe
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\bin\Debug\netcoreapp3.1\Tarea1.deps.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\bin\Debug\netcoreapp3.1\Tarea1.runtimeconfig.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\bin\Debug\netcoreapp3.1\Tarea1.runtimeconfig.dev.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\bin\Debug\netcoreapp3.1\Tarea1.dll
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\bin\Debug\netcoreapp3.1\Tarea1.pdb
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.csprojAssemblyReference.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.AssemblyInfoInputs.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.AssemblyInfo.cs
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.dll
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.pdb
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Tarea1\Tarea1\obj\Debug\netcoreapp3.1\Tarea1.genruntimeconfig.cache

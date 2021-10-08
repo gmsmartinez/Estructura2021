@@ -1,0 +1,13 @@
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\bin\Debug\netcoreapp3.1\Terciario1.exe
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\bin\Debug\netcoreapp3.1\Terciario1.deps.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\bin\Debug\netcoreapp3.1\Terciario1.runtimeconfig.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\bin\Debug\netcoreapp3.1\Terciario1.runtimeconfig.dev.json
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\bin\Debug\netcoreapp3.1\Terciario1.dll
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\bin\Debug\netcoreapp3.1\Terciario1.pdb
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.csprojAssemblyReference.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.AssemblyInfoInputs.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.AssemblyInfo.cs
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.csproj.CoreCompileInputs.cache
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.dll
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.pdb
+C:\Users\gabriela\OneDrive\Escritorio\IFTS\Terciario1\Terciario1\obj\Debug\netcoreapp3.1\Terciario1.genruntimeconfig.cache
